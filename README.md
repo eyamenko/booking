@@ -1,3 +1,3 @@
-# Booking Java/Swing application
+# Booking J2SE/Swing application
 
-Includes implemantation of 2 sort algorithms (bubble sort & merge sort) and 2 search algorithms (linear search & binary search)
+Includes implementation of 2 sort algorithms (bubble sort & merge sort) and 2 search algorithms (linear search & binary search).
